@@ -1,6 +1,5 @@
 # Master-repo
 Exercise-repository
-Local-Changes
-Repo made for exercises
+Local-Chan
 Making some changes here!!!
 
